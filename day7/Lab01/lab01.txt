@@ -1,0 +1,2 @@
+https://github.com/hermansoh/ai-bootcamp-portfolio/tree/main/day7/Lab01
+https://hermansoh-ai-bootcamp-portfolio-day7lab01app-u1kuke.streamlit.app/

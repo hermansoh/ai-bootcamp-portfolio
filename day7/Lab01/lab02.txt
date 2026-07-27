@@ -1,0 +1,2 @@
+https://github.com/hermansoh/ai-bootcamp-portfolio/tree/main/day7/Lab02
+https://hermansoh-ai-bootcamp-portfolio-day7lab02logic-r6p2pq.streamlit.app/
