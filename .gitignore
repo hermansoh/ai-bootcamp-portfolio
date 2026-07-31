@@ -1,4 +1,34 @@
-venv/
-chroma_db/
+# Environment files and secrets
 .env
+.env.*
+
+# Python virtual environments
+.venv/
+.venv-wsl/
+venv/
+
+# Python generated files
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated memory and databases
+chat_memory.json
+chroma_db/
+
+# Archives
+*.zip
+
+# macOS metadata
+__MACOSX/
+.DS_Store
+._*
+
+# Compiled/build output
+build/
+workspace/build/
+*.exe
+*.out
+*.o
+*.obj
