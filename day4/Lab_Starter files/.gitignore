@@ -1,0 +1,31 @@
+# Secret API keys
+.env
+.env.*
+
+# Python virtual environments
+.venv/
+.venv-wsl/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Chatbot-generated memory
+chat_memory.json
+
+# Gradio temporary data
+.gradio/
+gradio_cached_examples/
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
