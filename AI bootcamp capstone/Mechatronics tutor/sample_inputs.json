@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Embedded controller cannot start",
+    "system_type": "Embedded system / microcontroller",
+    "experience_level": "Beginner",
+    "symptom": "The board powers on, but firmware does not start and the debugger cannot connect.",
+    "observations": "Power LED is on. Reset pin measures low. USB cable works with another device.",
+    "recent_changes": "Changed the firmware target and rewired an external sensor.",
+    "constraints": "Only low-voltage bench tests are allowed."
+  },
+  {
+    "name": "Motor stops under load",
+    "system_type": "Motor and drive system",
+    "experience_level": "Intermediate",
+    "symptom": "The motor starts normally but stops after two seconds when the load is attached.",
+    "observations": "Driver fault LED turns on. Supply falls from 24 V to 20 V. Motor is warm.",
+    "recent_changes": "Mechanical load was increased.",
+    "constraints": "Do not exceed 2 A. Guard must remain installed."
+  }
+]
